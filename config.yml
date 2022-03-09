@@ -1,4 +1,4 @@
-baseURL: http://example.org/
+baseURL: https://zenmau.github.io/leblog/
 languageCode: pt-br
 title: Lablog
 theme: "hugo-theme-stack"
